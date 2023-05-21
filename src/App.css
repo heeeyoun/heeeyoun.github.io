@@ -1,0 +1,41 @@
+.hi{
+  color:red;
+}
+
+div {
+  
+  box-sizing : border-box
+}
+.black-nav {
+  
+  background:burlywood;
+  ;
+  
+  width: 100%;
+  display: flex;
+  color: rgb(247, 244, 241);
+  padding: 40px;
+}
+
+.list {
+  
+  text-align : center;
+  padding-left : 20px;
+  border-bottom : 1px solid grey;
+}
+
+.delete{
+  background-color: rgb(243, 209, 167);
+}
+.btn{
+  background-color: rgb(190, 166, 122);
+  color: aliceblue;
+ 
+}
+.modal{
+  
+  margin-top : 20px;
+  padding : 20px;
+  background : #f6deb2;
+  text-align : left;
+}
